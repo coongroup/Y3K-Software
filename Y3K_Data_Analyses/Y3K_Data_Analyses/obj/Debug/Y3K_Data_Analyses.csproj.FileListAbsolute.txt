@@ -1,0 +1,16 @@
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\Y3K_Data_Analyses.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\Y3K_Data_Analyses.exe
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\Y3K_Data_Analyses.pdb
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\EntityFramework.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\Meta.Numerics.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\System.Data.SQLite.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\EntityFramework.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\Meta.Numerics.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\bin\Debug\System.Data.SQLite.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\obj\Debug\Y3K_Data_Analyses.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\obj\Debug\Y3K_Data_Analyses.exe
+c:\users\nick\documents\visual studio 2013\Projects\Y3K_Data_Analyses\Y3K_Data_Analyses\obj\Debug\Y3K_Data_Analyses.pdb

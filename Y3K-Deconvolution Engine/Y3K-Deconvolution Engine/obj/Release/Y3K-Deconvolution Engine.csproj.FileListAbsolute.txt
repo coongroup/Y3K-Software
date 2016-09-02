@@ -1,0 +1,19 @@
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\Y3K-Deconvolution Engine.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\obj\Release\Interop.MSFileReaderLib.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\obj\Release\Y3K-Deconvolution Engine.csproj.ResolveComReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\Y3K-Deconvolution Engine.exe
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\Y3K-Deconvolution Engine.pdb
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\EntityFramework.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\EntityFramework.SqlServer.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\System.Data.SQLite.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\System.Data.SQLite.EF6.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\System.Data.SQLite.Linq.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\EntityFramework.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\EntityFramework.SqlServer.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\bin\Release\System.Data.SQLite.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\obj\Release\Y3K-Deconvolution Engine.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\obj\Release\Y3K_Deconvolution_Engine.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\obj\Release\Y3K_Deconvolution_Engine.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\obj\Release\Y3K-Deconvolution Engine.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\obj\Release\Y3K-Deconvolution Engine.exe
+c:\users\nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Engine\Y3K-Deconvolution Engine\obj\Release\Y3K-Deconvolution Engine.pdb

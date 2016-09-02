@@ -1,0 +1,34 @@
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\Y3K-Deconvolution Studio.exe.config
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\obj\Release\Interop.MSFileReaderLib.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\obj\Release\Y3K-Deconvolution Studio.csproj.ResolveComReference.cache
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\Y3K-Deconvolution Studio.exe
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\Y3K-Deconvolution Studio.pdb
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\EntityFramework.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\System.Data.SQLite.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\ZedGraph.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\EntityFramework.xml
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\System.Data.SQLite.xml
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\ZedGraph.xml
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\obj\Release\Y3K-Deconvolution Studio.csprojResolveAssemblyReference.cache
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\obj\Release\Y3K_Deconvolution_Studio.Form1.resources
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\obj\Release\Y3K_Deconvolution_Studio.Properties.Resources.resources
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\obj\Release\Y3K-Deconvolution Studio.csproj.GenerateResource.Cache
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\obj\Release\Y3K-Deconvolution Studio.exe
+C:\Users\Nick\documents\visual studio 2013\Projects\Y3K-Deconvolution Studio\Y3K-Deconvolution Studio\obj\Release\Y3K-Deconvolution Studio.pdb

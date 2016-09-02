@@ -1,0 +1,21 @@
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\Y3K GC Quant.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\Y3K GC Quant.exe
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\Y3K GC Quant.pdb
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\obj\Debug\Y3K GC Quant.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\obj\Debug\Y3K_GC_Quant.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\obj\Debug\Y3K_GC_Quant.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\obj\Debug\Y3K GC Quant.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\obj\Debug\Y3K GC Quant.exe
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\obj\Debug\Y3K GC Quant.pdb
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\obj\Debug\Interop.MSFileReaderLib.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\obj\Debug\Y3K GC Quant.csproj.ResolveComReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\EntityFramework.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\MathNet.Numerics.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\System.Data.SQLite.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\EntityFramework.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\MathNet.Numerics.xml
+c:\users\nick\documents\visual studio 2013\Projects\Y3K GC Quant\Y3K GC Quant\bin\Debug\System.Data.SQLite.xml
